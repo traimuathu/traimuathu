@@ -1,1 +1,1 @@
-- 🔭 I’m currently learning Dart/Flutter, Python, Mobile Development
+- 🔭 I’m currently learning Dart/Flutter, Mobile Development
